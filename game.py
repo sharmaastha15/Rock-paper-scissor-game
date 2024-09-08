@@ -14,7 +14,7 @@ while playing:
     print("player:",player)
     print("computer:",computer)
 
-#winning conditions
+#winning  cases 
     if player==computer:
      print("Its tie!")
     elif player =="rock" and computer== "scissor":
